@@ -1,3 +1,3 @@
 print("hello")
-x = 5
-y = 6
+x = 9
+y = 5
